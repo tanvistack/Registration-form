@@ -24,6 +24,15 @@ This application collects user details and displays them in the console when the
 
 ---
 
+## Sample Output
+Name: Tanvi
+Email: abc@gmail.com
+Password: 5678
+Gender Female
+Course: BCA
+
+---
+
 ## 🚀 How to Run
 
 1. Make sure Python is installed on your system.
